@@ -7,8 +7,7 @@
 
 Mis aspiraciones incluyen continuar creciendo profesionalmente, participar en proyectos desafiantes que me permitan ampliar mis habilidades y contribuir al éxito de un equipo dinámico con buen ambiente laboral.
 
-Si estás en busca de una mente curiosa y apasionada por el desarrollo, puedes contactarme vía email o ver mi GitHub:
-📧 brendaruthherrera@gmail.com
-🐈‍⬛ https://github.com/BrendaRuthHerrera </h1>
+Si estás en busca de una mente curiosa y apasionada por el desarrollo, puedes contactarme por aqui o vía email:
+📧 brendaruthherrera@gmail.com </h1>
 
 
