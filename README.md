@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center"> Hi there 👋 </h1>
-<img src"https://github.com/BrendaRuthHerrera/BrendaRuthHerrera/assets/134515011/23dbc37f-84f6-46f2-b445-3f1765ebf7c5
-">
+<img src"C:\Users\BRUNO\Downloads\Portada github.png">
 </div>
 
 
