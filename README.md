@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hi there 👋 </h1>
-<img src"C:\Users\BRUNO\Downloads\Portada github.png">
 </div>
+<img src"C:\Users\BRUNO\Downloads\Portada github.png">
 
 
 <!--
