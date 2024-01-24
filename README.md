@@ -1,10 +1,9 @@
 <div align="center">
 <h1 align="center"> Hi there 👋 </h1>
-<img src"https://drive.google.com/file/d/1pOhZ_qS1jjsso2DDt546nctmFHxZI-Xc/view?usp=drive_link">
+<img src"![Portada github](https://github.com/BrendaRuthHerrera/BrendaRuthHerrera/assets/134515011/23dbc37f-84f6-46f2-b445-3f1765ebf7c5)
+">
 </div>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <!--
 **BrendaRuthHerrera/BrendaRuthHerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
