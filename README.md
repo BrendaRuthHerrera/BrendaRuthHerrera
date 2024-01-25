@@ -1,5 +1,5 @@
 <div align="center">
-</div>
+
 <h1 align="center">👋 ¡Hola! ¡Bienvenido a mi GitHub!✨</h1>
 <img src="https://i.postimg.cc/Jnqzht1H/Portada-github.png">
 
@@ -10,5 +10,5 @@ Mis aspiraciones incluyen continuar creciendo profesionalmente, participar en pr
 
 🌠Si estás en busca de una mente curiosa y apasionada por el desarrollo, puedes contactarme por aqui o vía email:
 📧 brendaruthherrera@gmail.com </h1>
-
+</div>
 
